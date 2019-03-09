@@ -59,4 +59,8 @@ Update Meeting Page
 
 ![Image of updateMeeting Page](https://github.com/shubham007tak/MeetingApplication-Code/blob/master/project1FrontendCode-master/src/assets/updateMeeting.PNG)
 
+Meeting Noification
+
+![Image of meetingNotification Page](https://github.com/shubham007tak/MeetingApplication-Code/blob/master/project1FrontendCode-master/src/assets/meetingNotification.PNG)
+
 

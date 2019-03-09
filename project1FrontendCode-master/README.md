@@ -40,6 +40,23 @@ Users will get a notification message/mail about the Meeting Location,Time,Subje
 ## ScreenShots of Application
 
 Login Page
+
 ![Image of Login Page](https://github.com/shubham007tak/MeetingApplication-Code/blob/master/project1FrontendCode-master/src/assets/login.PNG)
+
+SignUp Page
+
+![Image of SignUp Page](https://github.com/shubham007tak/MeetingApplication-Code/blob/master/project1FrontendCode-master/src/assets/signup.PNG)
+
+Dashboard Page
+
+![Image of Dashboard Page](https://github.com/shubham007tak/MeetingApplication-Code/blob/master/project1FrontendCode-master/src/assets/dashboard.PNG)
+
+Create Meeting Page
+
+![Image of createMeeting Page](https://github.com/shubham007tak/MeetingApplication-Code/blob/master/project1FrontendCode-master/src/assets/createMeeting.PNG)
+
+Update Meeting Page
+
+![Image of updateMeeting Page](https://github.com/shubham007tak/MeetingApplication-Code/blob/master/project1FrontendCode-master/src/assets/updateMeeting.PNG)
 
 

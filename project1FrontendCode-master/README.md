@@ -32,3 +32,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 ## Description
+
+It is a Meeting Scheduling application, that allows admins to create/update meeting for users.
+Users will get a notification message/mail about the Meeting Location,Time,Subject.Users will get a Alarm notification one minute before starting of a Meeting,which he/she can snooze or dismiss.
+
+
+## ScreenShots of Application
+
+
